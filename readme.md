@@ -7,3 +7,7 @@ This backend provides RESTful APIs to manage user tasks. It's built with FastAPI
 - Endpoint for today's tasks
 - Support for daily recurring tasks
 - CORS support for frontend
+
+## ✅ Phase 2 Preview
+- /ai/command endpoint using CrewAI
+- Gemini model for natural voice command parsing
